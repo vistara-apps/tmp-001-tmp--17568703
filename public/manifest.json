@@ -1,14 +1,31 @@
 {
-  "name": "Tmp 001",
-  "description": "Tmp 001 is a Base Mini App built with Zara.",
-  "image": "https://dummyimage.com/1200x628/0a0b0d/ffffff.png&text=OG",
-  "external_url": "https://tmp-001.vistara.dev",
+  "name": "VibeFinder",
+  "short_name": "VibeFinder",
+  "description": "Stop doomscrolling, start discovering: Your AI guide to trending local spots.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#3B82F6",
+  "icons": [
+    {
+      "src": "/icons/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icons/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "image": "https://dummyimage.com/1200x628/0a0b0d/ffffff.png&text=VibeFinder",
+  "external_url": "https://vibefinder.vistara.dev",
   "properties": {
     "app": {
-      "name": "Tmp 001",
-      "description": "Tmp 001 is a Base Mini App built with Zara.",
-      "url": "https://tmp-001.vistara.dev",
-      "icon": "https://0co.to/images/zara-2.png"
+      "name": "VibeFinder",
+      "description": "Stop doomscrolling, start discovering: Your AI guide to trending local spots.",
+      "url": "https://vibefinder.vistara.dev",
+      "icon": "/icons/icon-192x192.png"
     }
   }
 }
