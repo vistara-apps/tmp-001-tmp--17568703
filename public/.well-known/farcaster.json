@@ -10,14 +10,14 @@
     "subtitle": "Built with Zara",
     "description": "Tmp 001 is a Base Mini App built with Zara.",
     "iconUrl": "https://0co.to/images/zara-2.png",
-    "homeUrl": "https://tmp-001.vistara.dev",
-    "splashImageUrl": "https://dummyimage.com/200x200/0a0b0d/ffffff.png&text=Splash",
+    "homeUrl": "https://tmp001-acyc-azjobhm4v-vistara.vercel.app",
+    "splashImageUrl": "https://tmp001-acyc-azjobhm4v-vistara.vercel.app/splash.png",
     "splashBackgroundColor": "#000000",
-    "heroImageUrl": "https://dummyimage.com/1200x628/0a0b0d/ffffff.png&text=Hero",
+    "heroImageUrl": "https://tmp001-acyc-azjobhm4v-vistara.vercel.app/image.png",
     "tagline": "Tmp 001",
     "screenshotUrls": [
-      "https://dummyimage.com/1200x628/0a0b0d/ffffff.png&text=Shot1",
-      "https://dummyimage.com/1200x628/0a0b0d/ffffff.png&text=Shot2"
+      "https://tmp001-acyc-azjobhm4v-vistara.vercel.app/screenshot.png",
+      "https://tmp001-acyc-azjobhm4v-vistara.vercel.app/screenshot.png"
     ],
     "primaryCategory": "social",
     "tags": [
@@ -25,6 +25,6 @@
       "miniapp",
       "onchainkit"
     ],
-    "webhookUrl": "https://tmp-001.vistara.dev/api/webhook"
+    "webhookUrl": "https://tmp001-acyc-azjobhm4v-vistara.vercel.app/api/webhook"
   }
 }
